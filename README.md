@@ -8,10 +8,9 @@ O objetivo da aplicação será desenvolver uma ferramenta mobile que auxilie o 
 
 ## Integrantes
 
+* * Matheus Silvino
 * Ryan Souza Camargos de Oliveira
 * Stephanie da Silva Cendrethe
-* Matheus Silvino
-* Nome completo do aluno 4
 
 ## Orientador
 
