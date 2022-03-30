@@ -8,7 +8,7 @@ O objetivo da aplicação será desenvolver uma ferramenta mobile que auxilie o 
 
 ## Integrantes
 
-* * Matheus Silvino
+* Matheus Silvino
 * Ryan Souza Camargos de Oliveira
 * Stephanie da Silva Cendrethe
 
