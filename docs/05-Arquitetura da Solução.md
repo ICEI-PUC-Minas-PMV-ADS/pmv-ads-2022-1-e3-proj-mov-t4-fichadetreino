@@ -6,22 +6,51 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ![Arquitetura da Solução](img/02-mob-arch.png)
 
+A IBM definiu como arquitetura de um projeto, o conjunto de decisões significativas sobre a organização de um sistema de software, a seleção de elementos estruturais e suas interfaces, juntamente com o comportamento especificado nas colaborações entre estes elementos, a composição destes elementos em subsistemas progressivamente maiores e o estilo arquitetural que guia esta organização. (The Rational Unified Process: An Introduction)(IBM, apud Nhimi, 2016) Desta forma e possível compreender que a arquitetura e um dos princípios fundamentais para a materialização de um projeto. Além disso dentro da arquitetura da solução definiremos os componentes básicos para o funcionamento deste projeto e a definição das tecnologias a serem empregadas no projeto
+
 ## Diagrama de Classes
 
-O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
+<ol>
+ O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
+ <figure>
+    <img src="./img/wireframes/diagramC.svg" alt="Registro personal">
+</figure>
 
-> - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+ Figura 13- Diagrama de Classes
+</ol>
 
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
 
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+Figura 14- Modelo RE
+<figure>
+    <img src="./img/wireframes/modeloER.svg" alt="MODELO ER">
+</figure>
+
+
+## Esquema Relacional
+
+O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
+
+<figure>
+    <img src="./img/wireframes/esquemaRelacional.svg" alt="MODELO ER">
+</figure>
+
+Figura 15- Esquema Relacional
+
+## Tecnologias Utilizadas
+
+<ol>
+ Para o desenvolvimento do sistema utilizaremos a linguagem Ecma script , juntamente com o framework react-native, sera utilizada a ferramenta para desenvolvimento e para PHP/MYSQLWORKBENCH  administração de base de dados, além de ser sistema construído através da arquitetura MVC, tendo sua hospedarem no Horuku, acessado de um navegador padrão, como ferramentas adicionais como o Github como ferramenta de repositório do código fonte, e o Visual Studio como ferramenta de suporte ao desenvolvimento, Figma para os projetos de interfaces e Teamplates.
+ </ol>
+
+## Hospedagem
+
+Esse projeto após seu termino será lançado na plataforma de hospedagem , e terá como endereço de URL:(URL)
+
 
 ## Esquema Relacional
 
