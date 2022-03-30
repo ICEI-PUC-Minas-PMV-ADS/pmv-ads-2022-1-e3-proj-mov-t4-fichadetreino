@@ -14,7 +14,7 @@ A IBM definiu como arquitetura de um projeto, o conjunto de decisões significat
  O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
  <figure>
-    <img src="./img/wireframes/diagramC.svg" alt="Registro personal">
+    <img src="./img/diagramC.svg" alt="Registro personal">
 </figure>
 
  Figura 13- Diagrama de Classes
@@ -27,7 +27,7 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 Figura 14- Modelo RE
 <figure>
-    <img src="./img/wireframes/modeloER.svg" alt="MODELO ER">
+    <img src="./img/modeloER.svg" alt="MODELO ER">
 </figure>
 
 
@@ -36,7 +36,7 @@ Figura 14- Modelo RE
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 
 <figure>
-    <img src="./img/wireframes/esquemaRelacional.svg" alt="MODELO ER">
+    <img src="./img/esquemaRelacional.svg" alt="MODELO ER">
 </figure>
 
 Figura 15- Esquema Relacional
