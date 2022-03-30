@@ -71,67 +71,81 @@ Usar o seguinte modelo:
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
+# Especificações do Projeto
+
+<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+ </ol>
 ## Requisitos
+<ol>
+ Os requisitos funcionais e não funcionais foram definidos da seguinte maneira:
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+ ### Requisitos Funcionais
+<ol> 
+ Tabela 2 — Requisitos Funcionais
 
-### Requisitos Funcionais
+ |ID	|Descrição do Requisito	|Prioridade|
+ |---|-----------------------|----------|
+ |RF-001|	Cadastrar personal/alunos	   | ALTA|
+ |RF-002| Fazer login no sistema      | ALTA|
+ |RF-003|	Alterar dados da conta| ALTA|
+ |RF-004|	Criar uma lista para cada aluno|BAIXA|
+ |RF-005| Alterar dados da Lista.| ALTA|
+ |RF-006| O Aluno possuir acesso a lista|	ALTA|
+ |RF-007|	Editar dados Aluno/personal |	MÉDIA|
+ |RF-008|	Excluir dados Aluno/personal|BAIXA|
+ |RF-009| Marcar um treinamento como concluido|	BAIXA|
+ |RF-010|	Gerar gráfico de avaliaçoes para o personal |	BAIXA|
+ 
+ Fonte: Elaborado pelos autores (2022).
+ 
+ obs: *CRUD: Criar, ler, atualizar e deletar (Create, Read, Update, Delete)
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
-### Requisitos não Funcionais
+ </ol>
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+ ### Requisitos não Funcionais:
+ <ol>
+  
+Tabela 3 – Requisitos não Funcionais
+|ID	|Descrição do Requisito	|Prioridade|
+|-------|------------------|---------|
+|RNF-001|	O sistema será construído através arquitetura MVC| MÉDIA|
+|RNF-002|	O sistema deve ser capaz de apresentar uma usabilidade intuitiva para o usuário| BAIXA|
+|RNF-003|	O sistema deve ser capaz de tratar exceções e se recuperar de falhas sem que haja perda de dados|	ALTA|
+|RNF-004|	O sistema vai utilizar React Native,PHP,SQL| ALTA|
+|RNF-005|	Será utilizada a ferramenta MYSQL Workbench para desenvolvimento e administração de base de dados|	ALTA|
+|RNF-006|	O sistema não poderá demorar mais de 4 segundos para carregar|	ALTA|
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+  Fonte: Elaborado pelos autores (2022).
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+ </ol>
+</ol>
 
 ## Restrições
+ 
+O projeto está restrito aos itens apresentados na tabela a seguir:
+ 
+Tabela 4 – Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+|ID|	Restrição|
+|--|----------|
+|01|	O projeto deverá ser entregue até o final do semestre|
+|02|	Não funciona sem acesso a internet|
+|03|	Interação com o cliente**|
+|04|	Deverá ser gerenciável|
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+Fonte: Elaborado pelos autores (2022).
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+</ol>
 
 ## Diagrama de Casos de Uso
-
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
-
+<ol>
+ O diagrama de casos de usos foi elaborado da seguinte maneira:
+ 
+ ![(NOME) - Diagrama de caso de uso]
+ 
+ 
+</ol>
 # Matriz de Rastreabilidade
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
