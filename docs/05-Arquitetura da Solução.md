@@ -62,7 +62,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 ## Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+https://www.mediafire.com/file/dbbqmg5vxtbd1oy/BD_database.sql/file
 
 ## Qualidade de Software
 
