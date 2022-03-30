@@ -61,9 +61,10 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
    
   <figure>
     <img src="./img/registroPersonal.jpg" alt="Registro personal">
-    ![Cadastro](https://user-images.githubusercontent.com/81540139/160947356-b0ab43c2-4ba1-4db0-bcdf-cca335e8fddb.png)
+    
 </figure>
  
+![Cadastro](https://user-images.githubusercontent.com/81540139/160947356-b0ab43c2-4ba1-4db0-bcdf-cca335e8fddb.png)  
    Figura 06- Tela de Cadastro
    * Nesta tela o usuário irá realizar um cadastro básico para que apenas o mesmo tenha acesso ao sistema 
  </ol>
