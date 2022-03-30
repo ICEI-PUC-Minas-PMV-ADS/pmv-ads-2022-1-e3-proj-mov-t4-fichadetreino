@@ -1,23 +1,21 @@
-# TÍTULO DO PROJETO
+# Ficha de Treino
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto Mobile`
 
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo da aplicação será desenvolver uma ferramenta mobile que auxilie o profissional de Educação Física a elaborar, editar e disponibilizar o programa de treino dos alunos, podendo ser utilizado em smartphones ou tablets.
 
 ## Integrantes
 
 * Ryan Souza Camargos de Oliveira
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Stephanie da Silva Cendrethe
+* Matheus Silvino
 * Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino de Lima
 
 ## Instruções de utilização
 
@@ -48,3 +46,4 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
