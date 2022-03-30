@@ -13,7 +13,7 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ## Diagrama de Fluxo
 <figure>
-  <img src="./img/wireframes/diagram.svg" alt="Diagrama de Fluxo">
+  <img src="./img/diagram.svg" alt="Diagrama de Fluxo">
   <figcaption>Diagrama de Fluxo</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
 <figure>
-  <img src="./img/wireframes/FluxodoUsuario.png" alt="Fluxo do usuario">
+  <img src="./img/FluxodoUsuario.png" alt="Fluxo do usuario">
   <figcaption>User flow</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
    A primeira tela a ser exibida pelo programa e a tela de login, tratasse de uma tela formulário simples que encaminhará o usuário às demais telas conforme o preenchimento da mesma. Sendo essa exemplificada à baixo:
    
    <figure>
-    <img src="./img/wireframes/loginPersonal.jpg" alt="Login do Personal">
+    <img src="./img/loginPersonal.jpg" alt="Login do Personal">
    </figure>
 
 
@@ -60,7 +60,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
   Na “figura 06-tela de cadastro” à baixo a tela de cadastro de usurário, contendo ela um formulário com o campos a serem preenchidos com os dados básicos do usuário, como senha,email e etc: 
    
   <figure>
-    <img src="./img/wireframes/registroPersonal.jpg" alt="Registro personal">
+    <img src="./img/registroPersonal.jpg" alt="Registro personal">
 </figure>
  
    Figura 06- Tela de Cadastro
@@ -73,7 +73,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
   
 <figure>
     <figcaption>Cadastrar Alunos</figcaption>
-    <img src="./img/wireframes/regALUNO.jpg" alt="Fluxo do usuario">
+    <img src="./img/regALUNO.jpg" alt="Fluxo do usuario">
 </figure>
  
   Figura 07- Tela Inicial.
@@ -89,7 +89,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
   
 <figure>
     <figcaption>Cadastrar Alunos</figcaption>
-    <img src="./img/wireframes/lista.jpg" alt="Registrar Aluno">
+    <img src="./img/lista.jpg" alt="Registrar Aluno">
 </figure>
  </ol>
  
@@ -101,7 +101,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
   exercícios.
 <figure>
     <figcaption>Update Alunos/Listas</figcaption>
-    <img src="./img/wireframes/CompListaAluno.jpg" alt="Update Alunos/Listas">
+    <img src="./img/CompListaAluno.jpg" alt="Update Alunos/Listas">
 </figure>
   </ol>
  </ol>
