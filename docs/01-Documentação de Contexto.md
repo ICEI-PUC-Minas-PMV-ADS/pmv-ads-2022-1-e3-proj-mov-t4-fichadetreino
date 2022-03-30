@@ -1,46 +1,30 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O desenvolvimento tecnológico tem mostrado e trazido consigo o aumento da velocidade nas atividades cotidianas e o auxílio na resolução de problemas. Após o surgimento da internet percebe-se um mundo cada vez mais conectado e globalizado. Essa evolução trouxe para o mundo uma busca cada vez maior por inovação e adaptabilidade de forma rápida em diversos setores e serviços. A tecnologia tem trazido a capacidade de desenvolver, organizar e sistematizar, facilitando atividades de mercados diversos, como também para os usuários através de soluções tecnológicas inteligentes e adaptáveis aos processos de negócios. 
+Em 2014, no Brasil, 79,3% das pessoas com mais de 10 anos já tinham acesso a um celular (IBGE 2014). Sendo assim, o uso de aplicações mobile tem se tornado ainda mais frequente, desencadeando formas de acesso novas, como recursos que facilitam uma comunicação precisa e práticas que auxiliam no cotidiano. Com isso, rotinas e planejamentos têm sido pensados e repensados para que com o auxílio de aplicativos possam ajudar na vida de comunidades em suas necessidades diárias.
+Pensando assim, o mercado de aplicativos têm aumentado o foco na área da saúde e hábitos de vida. A comunidade ligada aos exercícios físicos utiliza de uma ficha em papel para descrever o plano de treino realizado por alunos em ambientes como a academia. 
+Desta maneira, será desenvolvido uma aplicação com o intuito de salvar rotinas de treino, exercícios e dados relativos à musculação, considerando a dificuldade do uso de papéis em academias. Porém, é necessário contar com a importância do auxílio de um profissional habilitado para a elaboração do planejamento de rotina de treino do aluno com as particularidades de cada um, considerando os riscos de lesões e limitações de cada aluno.
+Considerando isso, o objetivo da aplicação será desenvolver uma ferramenta mobile que auxilie o profissional de Educação Física a elaborar, editar e disponibilizar o programa de treino dos alunos, podendo ser utilizado em smartphones ou tablets, de maneira mais prática.
 
-## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+## Problema de pesquisa 
+Como podemos auxiliar os Profissionais de Educação Física e usuários que frequentam academias?
+O aumento do acesso a internet concomitante ao de dispositivos móveis no mercado, a demanda por aplicações móveis também aumentou.  Com isso, é possível perceber que encontrar um aplicativo que reduza o uso de papel, salve e edite rotinas de treinamentos será um facilitador para usuários da academia e Profissionais de Educação Física. 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+## Objetivos 
+### Objetivo geral
+Criar uma aplicação móvel que possibilite a elaboração e edição, por parte dos Profissionais de Educação Física, e a visualização, por parte dos alunos, de rotinas de exercícios físicos. 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
-## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+### Objetivos específicos
+Estabelecer uma aplicação móvel por meio da plataforma React Native
+Construir a aplicação de acordo com os requisitos funcionais e não funcionais de acordo com o perfil do público-alvo;
+Pesquisar sobre o desenvolvimento de aplicativos mobile
+Compreender a principal arquitetura das plataformas móveis
+Projetar um aplicativo que auxilie Profissionais de Educação Física e os usuários de academia.
 
 ## Justificativa
+Diante de tudo que foi exposto, o desenvolvimento dessa aplicação justifica-se devido a necessidade de uma ferramenta que facilite a disponibilidade e o acesso dos planos de treinamento. Essa ferramenta, será importante para os proprietários de academia, onde haverá a diminuição de consumo de insumos como papel e plástico com as fichas dos alunos, para os profissionais de Educação Física, onde haverá a facilidade em disponibilizar e manipular os planos de treinos dos seus respectivos alunos e para os alunos da academia, que terão acesso ao plano de treino em qualquer lugar e momento e acabando com o problema de perder a ficha ou precisar ficar carregando papel durante o treino.
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+## Público-alvo
+Todos que frequentam academias podem se beneficiar das funcionalidades do aplicativo móvel desenvolvido neste trabalho, essa aplicação foi desenvolvida com objetivo de auxiliar os profissionais da Educação Física e alunos da academia.
+Para essa aplicação, não é exigido uma idade mínima, apenas que o usuário tenha a permissão de acesso concedida pela academia por meio de e-mail convite.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
-## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
