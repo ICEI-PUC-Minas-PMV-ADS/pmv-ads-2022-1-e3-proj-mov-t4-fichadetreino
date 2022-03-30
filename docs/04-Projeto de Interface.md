@@ -49,6 +49,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
     <img src="./img/loginPersonal.jpg" alt="Login do Personal">
    </figure>
 
+![Login](https://user-images.githubusercontent.com/81540139/160947394-504ffbb0-cdd4-4c72-86e6-c65a63fe1d1d.png)
 
    Figura 05- Tela de Login
    * Usuário cadastrado irá direcionado à tela inicial do usuário, a ondo o mesmo terá acesso a seus dados. 
@@ -77,7 +78,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
     <figcaption>Cadastrar Alunos</figcaption>
     <img src="./img/regALUNO.jpg" alt="Fluxo do usuario">
 </figure>
- 
+![Home – 1](https://user-images.githubusercontent.com/81540139/160947384-c0892cf3-4fd5-4ed6-88b5-1841c6bdf26b.png)
   Figura 07- Tela Inicial.
   * Cadastrar um aluno para ter acesso ao sistema.
   * Conseguir efetuar futuramente o envio da lista de treino.
@@ -94,7 +95,8 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
     <img src="./img/lista.jpg" alt="Registrar Aluno">
 </figure>
  </ol>
- 
+![Exercício individual Aluno](https://user-images.githubusercontent.com/81540139/160947366-de8ba900-1e16-4813-9f52-ece51123801b.png)
+![Ficha Completa](https://user-images.githubusercontent.com/81540139/160947379-82c94172-07f8-4af0-ab44-18b32bd4ca37.png)
  ### Tela de configuração de (Alunos/Listas)
 
  <ol>
@@ -105,5 +107,11 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
     <figcaption>Update Alunos/Listas</figcaption>
     <img src="./img/CompListaAluno.jpg" alt="Update Alunos/Listas">
 </figure>
+![Perfil](https://user-images.githubusercontent.com/81540139/160947399-04b77c35-e413-4b04-84d1-896ea076bd5f.png)
   </ol>
  </ol>
+
+![Exercício individual Treinador](https://user-images.githubusercontent.com/81540139/160947370-31dfb123-e08e-4db6-909b-e0a286750d66.png)
+![Ficha Completa Treinador](https://user-images.githubusercontent.com/81540139/160947376-6cd86014-3f2b-496f-be73-c0cb24b6016f.png)
+![Lista de Alunos](https://user-images.githubusercontent.com/81540139/160947392-53b7dc9e-2d74-45aa-91c8-6658ba415ac3.png)
+
