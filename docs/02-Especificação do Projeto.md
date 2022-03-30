@@ -1,26 +1,14 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Esse projeto tem como intenção o desenvolvimento dessa aplicação focando na necessidade de uma ferramenta que facilite a disponibilidade e o acesso dos planos de treinamento. Pensando nisso, foram criadas as seguintes personas e histo´rias de usuário para colaborar com o escopo deste projeto.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+|DESCRIÇÃO| MOTIVAÇÃO |FRUSTRAÇÃO|
+|--------------------|------------------------------------|----------------------------------------|
+|Profissional de Educação Física  | Disponibilizar o plano de exercícios físicos para os seus alunos e trocar fichas a cada alteração de exercícios de seus alunos | Dificuldade em editar fichas de treinos dos alunos.|
+|Proprietária de academia       | Utilizar o aplicativo para otimizar o tempo dos professores e alunos da academia.| Gasto desnecessário em papel e alunas perdendo a ficha de treino de forma recorrente.|
+|Aluna da academia | Utilizar o aplicativo para facilitar o treino na academia.| Perde a ficha de treinos ou estraga a ficha com suor|
 
 ## Histórias de Usuários
 
@@ -28,23 +16,21 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Profissional de Educação Física  | Desejo editar rotinas de exercícios físicos para alunos sem precisar refazer no papel.| para melhorar a interatividade entre os alunos e eu. |
+|Profissional de Educação Física       | Desejo disponibilizar os planos de exercícios físicos | Para otimizar os resultados dos meus alunos como o treino.|
+|Proprietária de academia | Desejo otimizar o tempo dos prestadores de serviço na minha academia| Para melhorar a assistência de alunos  |
+|Proprietária de academia| Desejo divulgar planos e serviços da academia| Para atingir os alunos da minha região de forma mais efetiva |
+|Proprietária de academia| Desejo economizar papel e energia | Para reduzir custos com insumos |
+|Aluna da academia        | Desejo facilitar o uso da minha ficha na academia| Para não perder fichas e perder tempo com o instrutor me auxiliando nos exercícios |
 
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+O mercado de aplicativos têm aumentado o foco na área da saúde e hábitos de vida. A comunidade ligada aos exercícios físicos utiliza de uma ficha em papel para descrever o plano de treino realizado por alunos em ambientes como a academia, devido o objeto de instrução desses alunos ser o papel, percebemos a dificuldade ao utilizar esse material no ambiente da academia devido a rotina do serviço e de avarias como água e suor. 
+Desta maneira, será desenvolvido uma aplicação com o intuito de salvar rotinas de treino, exercícios e dados relativos à musculação, considerando a dificuldade do uso de papéis em academias. Porém, é necessário contar com a importância do auxílio de um profissional habilitado para a elaboração do planejamento de rotina de treino do aluno com as particularidades de cada um, considerando os riscos de lesões e limitações de cada aluno.
+Considerando isso, o objetivo da aplicação será desenvolver uma ferramenta mobile que auxilie o profissional de Educação Física a elaborar, editar e disponibilizar o programa de treino dos alunos, podendo ser utilizado em smartphones ou tablets, de maneira mais prática.
+ 
 
 ### Descrição Geral da Proposta
 
@@ -185,3 +171,4 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
 ![Orçamento](img/02-orcamento.png)
+
