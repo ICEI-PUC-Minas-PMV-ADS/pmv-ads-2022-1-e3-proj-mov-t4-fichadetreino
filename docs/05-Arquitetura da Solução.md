@@ -51,12 +51,6 @@ https://www.mediafire.com/file/dbbqmg5vxtbd1oy/BD_database.sql/file
 
 |CARACTERÍSTICAS| SUBCARACTERÍSTICAS| OBSERVAÇÕES |
 |--------------------|------------------------------------|----------|
-|Profissional de Educação Física  | Disponibilizar o plano de exercícios físicos para os seus alunos e trocar fichas a cada alteração de exercícios de seus alunos | Dificuldade em editar fichas de treinos dos alunos.|
-|Proprietária de academia       | Utilizar o aplicativo para otimizar o tempo dos professores e alunos da academia.| Gasto desnecessário em papel e alunas perdendo a ficha de treino de forma recorrente.|
-|Aluna da academia | Utilizar o aplicativo para facilitar o treino na academia.| Perde a ficha de treinos ou estraga a ficha com suor|
-
-> **Links Úteis**:
->
-> - [ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models](https://www.iso.org/standard/35733.html/)
-> - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
-> - [Qualidade de Software - Engenharia de Software 29](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209/)
+|FUNCIONALIDADE| Adequação, Conformidade, Segurança de Acesso | A aplicação será desenvolvida utilizando a Lei Geral de proteção de dados (LGPD) como base, com a autenticação do usário através de senha e login|
+|USABILIDADE  | Operacionalidade, Inteligibilidade, Apreensibilidade| O projeto prevê consistência de vocabulário entre a aplicação e a documentação, mensagens de erro com informações necessárias para solucionar o problema e padronização nos formatos de telas de entrada/saída de dados.|
+|MANUTENIBILIDADE | Modificabilidade, Testabilidade, Modificabilidade | Descrição e documentação compreensível e completa para ajudar possíveis alterações em código, documentação do usuário de fácil compreensão, permitindo uma visão geral do produto e de todas as suas funções, identificando o conhecimento necessário para uso da aplicação, compartilhamento de código entre o grupo|
