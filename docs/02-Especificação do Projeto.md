@@ -36,15 +36,13 @@ Considerando isso, o objetivo da aplicação será desenvolver uma ferramenta mo
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
-### Processo 1 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+### Processo 1 – UTILIZAR FICHA 
 
 ![Processo 1](img/aluno.png.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – SALVAR/ALTERAR/DELETAR FICHA 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+
 
 ![Processo 2](img/educador.png.png)
 
