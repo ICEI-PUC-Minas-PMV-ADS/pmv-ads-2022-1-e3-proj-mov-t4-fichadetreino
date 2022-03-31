@@ -34,8 +34,6 @@ Considerando isso, o objetivo da aplicação será desenvolver uma ferramenta mo
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
-
 ### Processo 1 – MANUSEANDO A FICHA DE TREINOS
 
 ![Processo 1](img/aluno.png.png)
