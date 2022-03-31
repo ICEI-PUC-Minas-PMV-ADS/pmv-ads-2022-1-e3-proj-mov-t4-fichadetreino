@@ -11,6 +11,8 @@ O objetivo da aplicação será desenvolver uma ferramenta mobile que auxilie o 
 * Matheus Silvino
 * Ryan Souza Camargos de Oliveira
 * Stephanie da Silva Cendrethe
+* Ana Maria Teixeira do Carmo
+* Fernanda Salles Furtado
 
 ## Orientador
 
