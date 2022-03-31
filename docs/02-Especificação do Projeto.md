@@ -132,9 +132,9 @@ Fonte: Elaborado pelos autores (2022).
  
  
 </ol>
+
 ## Matriz de Rastreabilidade
 <ol>
-![Matriz de rastreabilidade de Requisitos Funcionais]
  <figure>
     <img src="./img/m.rastreabilidade.PNG">
 </figure>
