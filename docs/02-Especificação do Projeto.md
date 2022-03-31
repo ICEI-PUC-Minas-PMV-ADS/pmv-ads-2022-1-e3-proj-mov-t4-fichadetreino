@@ -21,7 +21,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Proprietária de academia | Desejo otimizar o tempo dos prestadores de serviço na minha academia| Para melhorar a assistência de alunos  |
 |Proprietária de academia| Desejo divulgar planos e serviços da academia| Para atingir os alunos da minha região de forma mais efetiva |
 |Proprietária de academia| Desejo economizar papel e energia | Para reduzir custos com insumos |
-|Aluna da academia        | Desejo facilitar o uso da minha ficha na academia| Para não perder fichas e perder tempo com o instrutor me auxiliando nos exercícios |
+|Aluna da academia       | Desejo facilitar o uso da minha ficha na academia| Para não perder fichas e perder tempo com o instrutor me auxiliando nos exercícios |
 
 ## Modelagem do Processo de Negócio 
 
