@@ -36,17 +36,15 @@ Considerando isso, o objetivo da aplicação será desenvolver uma ferramenta mo
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
-### Processo 1 – UTILIZAR FICHA 
+### Processo 1 – MANUSEANDO A FICHA DE TREINOS
 
 ![Processo 1](img/aluno.png.png)
 
-### Processo 2 – SALVAR/ALTERAR/DELETAR FICHA 
-
-
+### Processo 2 – SALVANDO/ALTERANDO/DELETANDO FICHA DE TREINOS
 
 ![Processo 2](img/educador.png.png)
 
-## Indicadores de Desempenho
+## Indicadores de Desempenho ***
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
