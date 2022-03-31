@@ -1,13 +1,5 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
-
-![Arquitetura da Solução](img/02-mob-arch.png)
-
-A IBM definiu como arquitetura de um projeto, o conjunto de decisões significativas sobre a organização de um sistema de software, a seleção de elementos estruturais e suas interfaces, juntamente com o comportamento especificado nas colaborações entre estes elementos, a composição destes elementos em subsistemas progressivamente maiores e o estilo arquitetural que guia esta organização. (The Rational Unified Process: An Introduction)(IBM, apud Nhimi, 2016) Desta forma e possível compreender que a arquitetura e um dos princípios fundamentais para a materialização de um projeto. Além disso dentro da arquitetura da solução definiremos os componentes básicos para o funcionamento deste projeto e a definição das tecnologias a serem empregadas no projeto
-
 ## Diagrama de Classes
 
 <ol>
