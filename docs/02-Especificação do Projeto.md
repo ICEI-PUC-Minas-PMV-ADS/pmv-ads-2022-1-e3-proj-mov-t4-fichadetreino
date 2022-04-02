@@ -109,7 +109,7 @@ Tabela 4 – Restrições
 
 |ID|	Restrição|
 |--|----------|
-|01|	Não funciona sem acesso a internet|
+|01|	O projeto será desenvolvido utilizando as linguagens XXXXXXXX|
 |02|	A aplicação terá compatibilidade com sistema Android|
 |03|	Para acesso ao sistema é necessário acesso à internet estável e de boa qualidade de transmissão de dados|
 |04| O projeto deverá ser entregue até o final do semestre|
