@@ -109,10 +109,12 @@ Tabela 4 – Restrições
 
 |ID|	Restrição|
 |--|----------|
-|01|	O projeto deverá ser entregue até o final do semestre|
-|02|	Não funciona sem acesso a internet|
-|03|	Interação com o cliente**|
-|04|	Deverá ser gerenciável|
+|01|	Não funciona sem acesso a internet|
+|02|	A aplicação terá compatibilidade com sistema Android|
+|03|	Para acesso ao sistema é necessário acesso à internet estável e de boa qualidade de transmissão de dados|
+|04| O projeto deverá ser entregue até o final do semestre|
+|05|	Interação com o cliente**|
+|06|	Deverá ser gerenciável|
 
 Fonte: Elaborado pelos autores (2022).
 
