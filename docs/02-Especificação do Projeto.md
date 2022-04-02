@@ -125,7 +125,7 @@ Fonte: Elaborado pelos autores (2022).
  O diagrama de casos de usos foi elaborado da seguinte maneira:
  
   <figure>
-    <img src="docs/img/Diagrama de caso de uso.png">
+    <img src="./img/Diagrama de caso de uso.png">
 </figure>
 </ol>
 
