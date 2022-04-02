@@ -124,9 +124,9 @@ Fonte: Elaborado pelos autores (2022).
 <ol>
  O diagrama de casos de usos foi elaborado da seguinte maneira:
  
- ![(NOME) - Diagrama de caso de uso]
- 
- 
+  <figure>
+    <img src="docs/img/Diagrama de caso de uso.png">
+</figure>
 </ol>
 
 ## Matriz de Rastreabilidade
