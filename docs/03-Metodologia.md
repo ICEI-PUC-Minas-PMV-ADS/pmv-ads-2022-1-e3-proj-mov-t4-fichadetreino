@@ -40,7 +40,7 @@ Ryan Souza Camargos de Oliveira
 
 |AMBIENTE|PLATAFORMA|LINK DE ACESSO|
 |--------------------|------------------------------------|----------------------------------------|
-|Repositório de código fonte| GitHub| https://www.github.com/ |
+|Repositório de código fonte| GitHub| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t4-fichadetreino/edit/main/docs/03-Metodologia.md|
 |Gerenciamento do Projeto| Planner | https://tasks.office.com/sgapucminasbr.onmicrosoft.com/pt-BR/Home/Planner/#/plantaskboard?groupId=2b086919-6614-4553-bbd0-63823b7dd487&planId=uyj9UGE7SECRjEGhXl1ZVGQACSB_|
 |Projeto de Interface e Wireframes| Figma| https://www.figma.com/ |
 |Ferramentas de comunicação| Microsoft Teams| https://www.microsoft.com/pt-br/microsoft-teams/ |
