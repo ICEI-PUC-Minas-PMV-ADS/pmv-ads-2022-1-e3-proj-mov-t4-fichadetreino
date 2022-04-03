@@ -56,22 +56,22 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
   <ol>
   Na “figura 06-tela de cadastro” à baixo a tela de cadastro de usurário, contendo ela um formulário com o campos a serem preenchidos com os dados básicos do usuário:   nome, senha e email.
    
-
- 
+   
 ![Cadastro](https://user-images.githubusercontent.com/81540139/160947356-b0ab43c2-4ba1-4db0-bcdf-cca335e8fddb.png)  
    
-   Figura 06- Tela de Cadastro
+Figura 06- Tela de Cadastro
    * Nesta tela o usuário irá realizar um cadastro para que tenha acesso ao sistema e seja possível associar uma ficha aos seu perfil
  </ol>
  
  
  ### Tela inicial do Professor
  
-  Na tela inicial do Professor ele terá acesso a sua lista de alunos
+ Na tela inicial do Professor ele terá acesso a sua lista de alunos
+ <br>
  
- ![Lista de Alunos](https://user-images.githubusercontent.com/81540139/161453148-91eac0ef-e3ba-4e04-97df-9130347aadc3.png)
+![Lista de Alunos](https://user-images.githubusercontent.com/81540139/161453148-91eac0ef-e3ba-4e04-97df-9130347aadc3.png)
 
-  Figura - Tela inicial Professor
+Figura - Tela inicial Professor
   * Visualizar a sua lista de Alunos
   * Conseguir acessar a lista de exercicios de algum aluno da lista
  
@@ -85,9 +85,9 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
   
 ![Ficha Completa Treinador](https://user-images.githubusercontent.com/81540139/161453311-96fb692b-c3b9-414b-b6d9-b3e03a4cb163.png)
  </ol>
-
-
-
+ 
+ 
+ 
  ### Tela Exercicio individual - Professor
  
  Através dessa tela o professor consegue editar e inserir os exercícios do aluno, assim como as instruções de execução
@@ -125,7 +125,6 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  ### Tela de Perfil
  
  Nessa tela o aluno consegue visualizar e editar suas informações
- 
  
 ![Perfil](https://user-images.githubusercontent.com/81540139/160947399-04b77c35-e413-4b04-84d1-896ea076bd5f.png)
   </ol>
