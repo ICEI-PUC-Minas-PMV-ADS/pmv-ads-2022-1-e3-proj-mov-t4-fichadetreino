@@ -1,10 +1,6 @@
 # Plano de Testes de Software
 
-Os requisitos para realização dos testes de software são:
-   
-   ● Instalar o aplicativo que será publicado na Play Store.
- 
-   ● Ter acesso a Internet.
+Os requisitos para realização dos testes de software incluem: Instalar o aplicativo que será publicado na Play Store, Ter acesso a Internet.
 
 Abaixo estão os testes a serem realizados:
  
