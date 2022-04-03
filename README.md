@@ -13,6 +13,7 @@ O objetivo da aplicação será desenvolver uma ferramenta mobile que auxilie o 
 * Stephanie da Silva Cendrethe
 * Ana Maria Teixeira do Carmo
 * Fernanda Salles Furtado
+* Daniel Silvério de Assis Júnior
 
 ## Orientador
 
