@@ -42,15 +42,12 @@ Considerando isso, o objetivo da aplicação será desenvolver uma ferramenta mo
 
 ![Processo 2](img/educador.png.png)
 
-## Indicadores de Desempenho ***
-
-|INDICADOR| OBJETIVO |DESCRIÇÃO - CÁLCULO|PERSPECTIVA|
-|--------------------|------------------------------------|----------------------------------------|-------------------------------|
-|IND1 |OBJ1 | DESC1| PERSP1|
-|IND1 |OBJ1 | DESC1| PERSP1|
-|IND1 |OBJ1 | DESC1| PERSP1|
-|IND1 |OBJ1 | DESC1| PERSP1|
-
+## Indicadores de Desempenho 
+Vamos utilizar o Power Bi para medir o desempenho do aplicativo. Gaturamento x Quantidade de alunos, segue o exemplo. 
+ <figure>
+    <img src="./img/indicadores.jpg">
+</figure>
+</ol>
 # Especificações do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
