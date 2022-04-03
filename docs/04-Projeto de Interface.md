@@ -54,7 +54,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
   
   ### Tela de Cadastro
   <ol>
-  Na “figura 06-tela de cadastro” à baixo a tela de cadastro de usurário, contendo ela um formulário com o campos a serem preenchidos com os dados básicos do usuário, como senha,email e etc: 
+  Na “figura 06-tela de cadastro” à baixo a tela de cadastro de usurário, contendo ela um formulário com o campos a serem preenchidos com os dados básicos do usuário:   nome, senha e email.
    
 
  
@@ -81,9 +81,9 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  <ol>
   
   Através da tela;
-  O usuário (professor/treinador) conseguira criar as demais listas de treino personalizado para os alunos registrados no sistema.
+  O usuário (professor/treinador) conseguirá criar as demais listas de treino personalizado para os alunos registrados no sistema.
   
-   ![Ficha Completa Treinador](https://user-images.githubusercontent.com/81540139/161453311-96fb692b-c3b9-414b-b6d9-b3e03a4cb163.png)
+![Ficha Completa Treinador](https://user-images.githubusercontent.com/81540139/161453311-96fb692b-c3b9-414b-b6d9-b3e03a4cb163.png)
  </ol>
 
 
@@ -92,12 +92,14 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  
  Através dessa tela o professor consegue editar e inserir os exercícios do aluno, assim como as instruções de execução
  
- ![Exercício individual Treinador](https://user-images.githubusercontent.com/81540139/160947370-31dfb123-e08e-4db6-909b-e0a286750d66.png)
+ 
+![Exercício individual Treinador](https://user-images.githubusercontent.com/81540139/160947370-31dfb123-e08e-4db6-909b-e0a286750d66.png)
  
  ### Tela Inicial Aluno
  <ol>
   Na tela de inicial do aluno ele terá acesso rápido a sua ficha do dia com alguns exercícios:
 
+  
 ![Home – 1](https://user-images.githubusercontent.com/81540139/160947384-c0892cf3-4fd5-4ed6-88b5-1841c6bdf26b.png)
  
   Figura 07- Tela Inicial Aluno
@@ -118,11 +120,12 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  
  Nessa tela o aluno tem acesso a suas fichas de exercícios de todos os dias da semana
  
- ![Ficha Completa](https://user-images.githubusercontent.com/81540139/160947379-82c94172-07f8-4af0-ab44-18b32bd4ca37.png)
+![Ficha Completa](https://user-images.githubusercontent.com/81540139/160947379-82c94172-07f8-4af0-ab44-18b32bd4ca37.png)
  
  ### Tela de Perfil
  
  Nessa tela o aluno consegue visualizar e editar suas informações
+ 
  
 ![Perfil](https://user-images.githubusercontent.com/81540139/160947399-04b77c35-e413-4b04-84d1-896ea076bd5f.png)
   </ol>
