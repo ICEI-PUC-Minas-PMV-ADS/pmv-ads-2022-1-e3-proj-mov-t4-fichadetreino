@@ -64,16 +64,33 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
    * Nesta tela o usuário irá realizar um cadastro para que tenha acesso ao sistema e seja possível associar uma ficha aos seu perfil
  </ol>
  
- ### Tela Inicial
+ ### Tela Inicial Aluno
  <ol>
-  Na tela de inicial, o usuário terá acesso rápido a sua ficha do dia com alguns exercícios:
+  Na tela de inicial do aluno ele terá acesso rápido a sua ficha do dia com alguns exercícios:
 
 ![Home – 1](https://user-images.githubusercontent.com/81540139/160947384-c0892cf3-4fd5-4ed6-88b5-1841c6bdf26b.png)
  
+  Figura 07- Tela Inicial Aluno
+  * Visão geral de sua ficha de exercicios do dia
+  * Conseguir acessar os exercícios do dia
+  
   Figura 07- Tela Inicial.
   * Cadastrar um aluno para ter acesso ao sistema.
   * Conseguir efetuar futuramente o envio da lista de treino.
+  
  </ol>
+ 
+ ### Tela inicial do Professor
+ 
+  Na tela inicial do Professor ele terá acesso a sua lista de alunos
+ 
+ ![Lista de Alunos](https://user-images.githubusercontent.com/81540139/161453148-91eac0ef-e3ba-4e04-97df-9130347aadc3.png)
+
+  Figura - Tela inicial Professor
+  * Visualizar a sua lista de Alunos
+  * Conseguir acessar a lista de exercicios de algum aluno da lista
+ 
+ 
  
  ### Tela Criar Listas de Treino.
  <ol>
