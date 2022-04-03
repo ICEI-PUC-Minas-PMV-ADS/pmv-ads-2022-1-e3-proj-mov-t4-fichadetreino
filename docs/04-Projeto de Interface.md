@@ -28,10 +28,9 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
  
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
-<figure>
-  <img src="./img/FluxodoUsuario.png" alt="Fluxo do usuario">
-  <figcaption>User flow</figcaption>
-</figure>
+ 
+ ![User Flow](https://user-images.githubusercontent.com/81540139/161452819-54b1f5d2-cce8-43d2-bf62-77e72f86c81a.png)
+
 
  </ol>
 
@@ -43,42 +42,34 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  ### Tela de Login
   <ol>
  
-   A primeira tela a ser exibida pelo programa e a tela de login, tratasse de uma tela formulário simples que encaminhará o usuário às demais telas conforme o preenchimento da mesma. Sendo essa exemplificada à baixo:
+   A primeira tela a ser exibida pelo programa é a tela de login, tratasse de uma tela formulário simples que encaminhará o usuário às demais telas conforme o preenchimento da mesma. Sendo essa exemplificada à baixo:
    
-   <figure>
-    <img src="./img/loginPersonal.jpg" alt="Login do Personal">
-   </figure>
 
 ![Login](https://user-images.githubusercontent.com/81540139/160947394-504ffbb0-cdd4-4c72-86e6-c65a63fe1d1d.png)
 
    Figura 05- Tela de Login
    * Usuário cadastrado irá direcionado à tela inicial do usuário, a ondo o mesmo terá acesso a seus dados. 
-   * Ao clicar em cadastro o usurário será encaminhado a tela com o formulário de cadastro
+   * Ao clicar em cadastro o usuário será encaminhado a tela com o formulário de cadastro
  </ol>
   
   ### Tela de Cadastro
   <ol>
   Na “figura 06-tela de cadastro” à baixo a tela de cadastro de usurário, contendo ela um formulário com o campos a serem preenchidos com os dados básicos do usuário, como senha,email e etc: 
    
-  <figure>
-    <img src="./img/registroPersonal.jpg" alt="Registro personal">
-    
-</figure>
+
  
 ![Cadastro](https://user-images.githubusercontent.com/81540139/160947356-b0ab43c2-4ba1-4db0-bcdf-cca335e8fddb.png)  
+   
    Figura 06- Tela de Cadastro
-   * Nesta tela o usuário irá realizar um cadastro básico para que apenas o mesmo tenha acesso ao sistema 
+   * Nesta tela o usuário irá realizar um cadastro para que tenha acesso ao sistema e seja possível associar uma ficha aos seu perfil
  </ol>
  
  ### Tela Inicial
  <ol>
-  Na tela de inicial, o usuário terá acesso aos serviços do sistema que serão divididos em blocos sendo eles abaixo especificado:
-  
-<figure>
-    <figcaption>Cadastrar Alunos</figcaption>
-    <img src="./img/regALUNO.jpg" alt="Fluxo do usuario">
-</figure>
+  Na tela de inicial, o usuário terá acesso rápido a sua ficha do dia com alguns exercícios:
+
 ![Home – 1](https://user-images.githubusercontent.com/81540139/160947384-c0892cf3-4fd5-4ed6-88b5-1841c6bdf26b.png)
+ 
   Figura 07- Tela Inicial.
   * Cadastrar um aluno para ter acesso ao sistema.
   * Conseguir efetuar futuramente o envio da lista de treino.
