@@ -43,7 +43,7 @@ Considerando isso, o objetivo da aplicação será desenvolver uma ferramenta mo
 ![Processo 2](img/educador.png.png)
 
 ## Indicadores de Desempenho 
-Vamos utilizar o Power Bi para medir o desempenho do aplicativo. Gaturamento x Quantidade de alunos, segue o exemplo. 
+Vamos utilizar o Power Bi para medir o desempenho do aplicativo. Faturamento x Quantidade de alunos, segue o exemplo. 
  <figure>
     <img src="./img/indicadores.jpg">
 </figure>
