@@ -1,12 +1,7 @@
-O planejamento dos testes de usabilidade a serem realizados com usuários são descritos na Tabela a seguir:
-
-|Objetivo| Pessoas | Tarefas|
-|--------------------|------------------------------------|----------------------------------------|
-|Verificar se todas funcionalidades estao acessiveis sem erros fatais   | Gustavo, 22 anos, Personal trainer; Joel Ribeiro, 21 anos, Aluno do Gustavo           | Acessar a página inicial; Clicar no botão “Cadastrar na Aba Treinador" ; Clicar no botão “Entrar na aba Aluno/Treinador" ; Visualizar as Fichas de treino; Marcar como concluido; Verificar se o admin consegue deletar/editar um aluno ou ficha registrad(a).               |
 
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+O planejamento dos testes de usabilidade a serem realizados com usuários terão como foco principal os seguintes tópicos: 
 
 #### Cadastro
 <ol>
@@ -63,4 +58,10 @@ O teste de usabilidade permite avaliar a qualidade da interface com o usuário d
   <p>Os participantes serão escolhidos em acordo com as personas já apresentadas anteriormente nesse documento, considerando a história dos usuários. Em acordo com cada persona apresentada teremos dois participantes que encaixe com as histórias de usuários apresentadas. no total seão 6 participantes.
  </p>
   
+### Processo
 
+O processo está descrito na Tabela a seguir como exemplo:
+
+|Objetivo| Pessoas | Tarefas|
+|--------------------|------------------------------------|----------------------------------------|
+|Verificar se todas funcionalidades estao acessiveis sem erros fatais   | Gustavo, 22 anos, Personal trainer; Joel Ribeiro, 21 anos, Aluno do Gustavo           | Acessar a página inicial; Clicar no botão “Cadastrar na Aba Treinador" ; Clicar no botão “Entrar na aba Aluno/Treinador" ; Visualizar as Fichas de treino; Marcar como concluido; Verificar se o admin consegue deletar/editar um aluno ou ficha registrad(a).               |
