@@ -64,21 +64,6 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
    * Nesta tela o usuário irá realizar um cadastro para que tenha acesso ao sistema e seja possível associar uma ficha aos seu perfil
  </ol>
  
- ### Tela Inicial Aluno
- <ol>
-  Na tela de inicial do aluno ele terá acesso rápido a sua ficha do dia com alguns exercícios:
-
-![Home – 1](https://user-images.githubusercontent.com/81540139/160947384-c0892cf3-4fd5-4ed6-88b5-1841c6bdf26b.png)
- 
-  Figura 07- Tela Inicial Aluno
-  * Visão geral de sua ficha de exercicios do dia
-  * Conseguir acessar os exercícios do dia
-  
-  Figura 07- Tela Inicial.
-  * Cadastrar um aluno para ter acesso ao sistema.
-  * Conseguir efetuar futuramente o envio da lista de treino.
-  
- </ol>
  
  ### Tela inicial do Professor
  
@@ -92,34 +77,55 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  
  
  
- ### Tela Criar Listas de Treino.
+ ### Tela Criar Listas de Treino - Professor
  <ol>
   
   Através da tela;
-  O usuário conseguira criar as demais listas de treino personalizado para os alunos registrados no sistema.
+  O usuário (professor/treinador) conseguira criar as demais listas de treino personalizado para os alunos registrados no sistema.
   
-<figure>
-    <figcaption>Cadastrar Alunos</figcaption>
-    <img src="./img/lista.jpg" alt="Registrar Aluno">
-</figure>
+   ![Ficha Completa Treinador](https://user-images.githubusercontent.com/81540139/161453311-96fb692b-c3b9-414b-b6d9-b3e03a4cb163.png)
  </ol>
-![Exercício individual Aluno](https://user-images.githubusercontent.com/81540139/160947366-de8ba900-1e16-4813-9f52-ece51123801b.png)
-![Ficha Completa](https://user-images.githubusercontent.com/81540139/160947379-82c94172-07f8-4af0-ab44-18b32bd4ca37.png)
- ### Tela de configuração de (Alunos/Listas)
 
+
+
+ ### Tela Exercicio individual - Professor
+ 
+ Através dessa tela o professor consegue editar e inserir os exercícios do aluno, assim como as instruções de execução
+ 
+ ![Exercício individual Treinador](https://user-images.githubusercontent.com/81540139/160947370-31dfb123-e08e-4db6-909b-e0a286750d66.png)
+ 
+ ### Tela Inicial Aluno
  <ol>
-  Uma tela de configuracao para editar o Perfil do Aluno 
-  desejado e também para realizar alterações nas listas de 
-  exercícios.
-<figure>
-    <figcaption>Update Alunos/Listas</figcaption>
-    <img src="./img/CompListaAluno.jpg" alt="Update Alunos/Listas">
-</figure>
+  Na tela de inicial do aluno ele terá acesso rápido a sua ficha do dia com alguns exercícios:
+
+![Home – 1](https://user-images.githubusercontent.com/81540139/160947384-c0892cf3-4fd5-4ed6-88b5-1841c6bdf26b.png)
+ 
+  Figura 07- Tela Inicial Aluno
+  * Visão geral de sua ficha de exercicios do dia
+  * Conseguir acessar os exercícios do dia
+  
+  
+ </ol>
+ 
+ ### Tela de Exercício completo - Aluno
+ 
+ Nessa tela o aluno consegue visualizar o exercicio individual e suas instruções
+
+
+![Exercício individual Aluno](https://user-images.githubusercontent.com/81540139/160947366-de8ba900-1e16-4813-9f52-ece51123801b.png)
+ 
+ ### Tela de lista de exercícios - Aluno
+ 
+ Nessa tela o aluno tem acesso a suas fichas de exercícios de todos os dias da semana
+ 
+ ![Ficha Completa](https://user-images.githubusercontent.com/81540139/160947379-82c94172-07f8-4af0-ab44-18b32bd4ca37.png)
+ 
+ ### Tela de Perfil
+ 
+ Nessa tela o aluno consegue visualizar e editar suas informações
+ 
 ![Perfil](https://user-images.githubusercontent.com/81540139/160947399-04b77c35-e413-4b04-84d1-896ea076bd5f.png)
   </ol>
  </ol>
 
-![Exercício individual Treinador](https://user-images.githubusercontent.com/81540139/160947370-31dfb123-e08e-4db6-909b-e0a286750d66.png)
-![Ficha Completa Treinador](https://user-images.githubusercontent.com/81540139/160947376-6cd86014-3f2b-496f-be73-c0cb24b6016f.png)
-![Lista de Alunos](https://user-images.githubusercontent.com/81540139/160947392-53b7dc9e-2d74-45aa-91c8-6658ba415ac3.png)
 
