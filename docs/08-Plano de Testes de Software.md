@@ -27,7 +27,7 @@ Abaixo estão os testes a serem realizados:
 |       |2)	Clicar no botão de Login|
 |       |3)	Realizar o Login|
 |       |4)	Abrir perfil com fichas de alunos relacionada  usuário|
-|Passos |5)	Alterar os dados de ficha de usuários|
+|PASSOS |5)	Alterar os dados de ficha de usuários|
 |       |6)	Clicar em concluir|
 |       |7)	Clicar no botão Excluir Conta|
 |       |8)	Clicar em Concluir|
@@ -44,7 +44,7 @@ Abaixo estão os testes a serem realizados:
 |       |2)	Clicar no botão de Login|
 |       |3)	Realizar o Login|
 |       |4)	Abrir perfil do alunos a ficha de atividades físicas relacionadas a esse usuário|
-|Passos |5)	Ver os dados de ficha do usuário|
+|PASSOS |5)	Ver os dados de ficha do usuário|
 |       |6)	Clicar em concluir|
 |       |7)	Clicar no botão Excluir Conta|
 |       |8)	Clicar em Concluir|
