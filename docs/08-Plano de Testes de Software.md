@@ -16,7 +16,7 @@ Abaixo estão os testes a serem realizados:
   |PASSOS| 2) Clicar em "cadastrar-me"|
   |      | 3) O usuário conseguirá acessar a página para realizar o cadastro e efetivará o cadastro com os dados solicitados|
   |                                                          |
-  |CRITÉRIO DE ÊXITO| ●	Após a efetivação do cadastro, o usuário deverá ser redirecionado a página de login|
+  |CRITÉRIO DE ÊXITO| Após a efetivação do cadastro, o usuário deverá ser redirecionado a página de login|
 
  
 |CASO DE TESTE |CT-02 – LOGIN DO EDUCADOR FÍSICO|
@@ -32,9 +32,9 @@ Abaixo estão os testes a serem realizados:
 |       |7)	Clicar no botão Excluir Conta|
 |       |8)	Clicar em Concluir|
 |       |9)	Sair da Conta|
-|                 	| ● Quando o usuário logar, a aplicação apresentará o menu inicial com as fichas de alunos relacionados a esse educador físico|
-|CRITÉRIO DE ÊXITO	| ●	Após o login o usuário deverá ser capaz de editar e alterar as fichas de alunos relacionadas a esse educador físico|
-|                 	| ●	Quando necessário o usuário será capaz de excluir sua conta|
+|                 	| Quando o usuário logar, a aplicação apresentará o menu inicial com as fichas de alunos relacionados a esse educador físico|
+|CRITÉRIO DE ÊXITO	| Após o login o usuário deverá ser capaz de editar e alterar as fichas de alunos relacionadas a esse educador físico|
+|                 	| Quando necessário o usuário será capaz de excluir sua conta|
  
 |CASO DE TESTE |CT-03 – LOGIN DO ALUNO|
 |--------------|-------------------------------------|
@@ -49,9 +49,9 @@ Abaixo estão os testes a serem realizados:
 |       |7)	Clicar no botão Excluir Conta|
 |       |8)	Clicar em Concluir|
 |       |9)	Sair da Conta|
-|                 	| ● Quando o usuário logar, a aplicação apresentará o menu inicial com a ficha destinada ao aluno realizada pelo educador físico|
-|CRITÉRIO DE ÊXITO	| ●	Após o login o usuário deverá ser capaz de acessar todos os exercícios da ficha realizada pelo educador físico|
-|                 	| ●	Quando necessário o usuário será capaz de excluir sua conta| 
+|                 	| Quando o usuário logar, a aplicação apresentará o menu inicial com a ficha destinada ao aluno realizada pelo educador físico|
+|CRITÉRIO DE ÊXITO	| Após o login o usuário deverá ser capaz de acessar todos os exercícios da ficha realizada pelo educador físico|
+|                 	| Quando necessário o usuário será capaz de excluir sua conta| 
 
  
  
@@ -69,8 +69,8 @@ Abaixo estão os testes a serem realizados:
  |Passos           |2) Clicar em "cadastre-me"|
  |                 |3) Digitar caracteres especiais|
  |                 |4) Clicar em "concluir cadastro"|
- |                  	| ●	Clicar no botão cadastro e digitar caracteres especiais e validar se ocorre o redirecionamento para tela cadastro|
- |Critérios de Êxito	| ●	Clicar no botão login e digitar caracteres especiais e validar se ocorre o redirecionamento para tela cadastro|
+ |                  	| Clicar no botão cadastro e digitar caracteres especiais e validar se ocorre o redirecionamento para tela cadastro|
+ |Critérios de Êxito	|	Clicar no botão login e digitar caracteres especiais e validar se ocorre o redirecionamento para tela cadastro|
  
 
 
