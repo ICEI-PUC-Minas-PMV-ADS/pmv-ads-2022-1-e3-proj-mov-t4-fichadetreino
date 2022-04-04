@@ -58,7 +58,7 @@ Abaixo estão os testes a serem realizados:
  </ol>
 
  
-## CASOS DE TESTE INSUCESSO: CT-01 (RF-001,RF-002)
+## CASOS DE TESTE INSUCESSO: CT-01 (RF-001)
 <ol>
  
  |CASO DE TESTE |	CT-01 – ERRO EM LOGIN E CADASTRO DE USUÁRIO| 
