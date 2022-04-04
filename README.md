@@ -2,7 +2,9 @@
 
 `Análise e Desenvolvimento de Sistemas`
 
-`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio - 3º período`
+
+
 
 O objetivo da aplicação será desenvolver uma ferramenta mobile que auxilie o profissional de Educação Física a elaborar, editar e disponibilizar o programa de treino dos alunos, podendo ser utilizado em smartphones ou tablets.
 
