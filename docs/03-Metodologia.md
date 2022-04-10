@@ -36,6 +36,23 @@ Stephanie Cendrethe
 Equipe de Design:
 Ryan Souza Camargos de Oliveira
 
+
+### Processo
+
+Para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução, foi criado um quadro de backlogs no Github. O quadro encontra-se disponível através da URL https://tasks.office.com/sgapucminasbr.onmicrosoft.com/pt-BR/Home/Planner/#/plantaskboard?groupId=2b086919-6614-4553-bbd0-63823b7dd487&planId=uyj9UGE7SECRjEGhXl1ZVGQACSB_ e é apresentado, no estado atual, na figura abaixo. 
+
+![image](/docs/img/backlog.PNG)
+
+Para organização e distribuição das tarefas do projeto, a equipe está estruturado com as seguintes listas: 
+
+- `Backlog`: As tarefas ficam listadas na parte do To Do e reúne todas as etapas a serem trabalhadas. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+
+- `Doing`: Quando uma tarefa tiver sido iniciada, ela é movida para cá e é realizada no decorrer da Sprint.
+
+- `Done`: Lista com as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões a serem feitas, ele está pronto para a ação.
+
+- `Impedimentos`: Restrições que surgem ao desenvolver do projeto, impedindo alguma conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
+ 
 ### Ferramentas
 
 |AMBIENTE|PLATAFORMA|LINK DE ACESSO|
