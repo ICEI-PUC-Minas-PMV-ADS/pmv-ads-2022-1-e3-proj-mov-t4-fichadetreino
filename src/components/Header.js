@@ -1,20 +1,32 @@
 import React, { Component } from 'react';
-import { StyleSheet } from 'react-native';;
+import { StyleSheet } from 'react-native';
 import { Appbar, Text } from 'react-native-paper';
-import styles from './Header.style'
 
 
-
-const Header = () => {
+const Header = ({title, subtitle}) => {
 
   return (
         <>
             <Appbar.Header style = {styles.headerStyle}>
-              <Appbar.Content title="Ficha de Treino" subtitle="Puc Minas" />
+              <Appbar.Content title = {title} subtitle = {subtitle} style = {styles.contentStyle}/>
             </Appbar.Header>
         </>
-      )
-    }
+    );
+};
+
+const styles = StyleSheet.create({
+  headerStyle: {
+    backgroundColor: '#6974CF',
+    position: 'center',
+    left: 0,
+    right: 0,
+    bottom: 0,
+  },
+  contentStyle:{
+    textAlign: 'right',
+  }
+})
+
 
 
 export default Header;
