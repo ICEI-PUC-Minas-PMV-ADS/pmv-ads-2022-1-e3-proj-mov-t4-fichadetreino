@@ -15,7 +15,7 @@ O planejamento dos testes de usabilidade a serem realizados com usuários terão
 <ol>
   
 *	Acessar a aplicação.
-*	Realizar login, através de senha e usuário cadastrados.
+*	Realizar login através de e-mail e senha cadastrados.
 *	Entrar no menu principal.          
 </ol>
 
@@ -23,8 +23,10 @@ O planejamento dos testes de usabilidade a serem realizados com usuários terão
 <ol>
 	
 *	Realizar login na aplicação
-*	Acessar ficha de treinos cadastradas para s respectivos alunos
+*	Clicar em Menu Principal
 *	Inserir dados na ficha de treinos
+*	Salvar
+*	Verificar dados salvos
 *	Sair do app
 </ol>
 
@@ -33,18 +35,10 @@ O planejamento dos testes de usabilidade a serem realizados com usuários terão
 
 *	Realizar login na aplicação
 *	Clicar em ficha de treinos
-*	Visualizar exerceicios na ficha de treinos  
+*	Visualizar exercícios na ficha de treinos  
 *	Sair do app
 </ol>
 
-#### Alterar dados Usuario
-<ol>
-
-* Realizar login
-* Acessar os dados do perfil do usuario
-* Realizar a alteração de dados no cadastro 
-* Sair do app 
-</ol>
 
 <p>
   <b>Objetivos</b>
@@ -55,7 +49,7 @@ O planejamento dos testes de usabilidade a serem realizados com usuários terão
 
 <p>
   <b>Participantes</b></p>
-  <p>Os participantes serão escolhidos em acordo com as personas já apresentadas anteriormente nesse documento, considerando a história dos usuários. Em acordo com cada persona apresentada teremos dois participantes que encaixe com as histórias de usuários apresentadas. no total seão 6 participantes.
+  <p>Os participantes serão escolhidos em acordo com as personas já apresentadas anteriormente nesse documento, considerando a história dos usuários. Em acordo com cada persona apresentada teremos dois participantes que encaixe com as histórias de usuários apresentadas. no total serão 6 participantes.
  </p>
   
 ### Processo
