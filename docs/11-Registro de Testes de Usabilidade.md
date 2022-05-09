@@ -24,7 +24,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 |Objetivo do Teste | Verificar se React, PHP e SQL estão funcionando de forma integrada. |
 |Passos |1) Acessar o aplicativo <br/> 2) Inserir dados para cadastro <br/> 3) Fazer o login utilizando banco de dados. <br/> 4)Acessar ficha de treino já cadastrada | 
 |Critérios de Êxito | Os usuários conseguirem acessar e utilizar todas as ferramentas do aplicativo de acordo com o que tiver sido salvo anteiormente. |
-|Resultados obtidos | Requisito atendido -  |
+|Resultados obtidos | Requisito parcialmente atendido - Sistema utilizando React Native corretamente |
 
 |**Caso de Teste** |**CT-04 - Resposta do aplicativo**| 
 |---|----|
