@@ -26,7 +26,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 |Critérios de Êxito | Os usuários conseguirem acessar e utilizar todas as ferramentas do aplicativo de acordo com o que tiver sido salvo anteiormente. |
 |Resultados obtidos | Requisito atendido -  |
 
-|**Caso de Teste** |**CT-04 - Resposta do site**| 
+|**Caso de Teste** |**CT-04 - Resposta do aplicativo**| 
 |---|----|
 |Requisitos Associados | RNF-06 O sistema não poderá demorar mais de 4 segundos para carregar	<br/> 
 |Passos | 1) Acessar o aplicativo <br/> 2) Acessar a tela de login <br/> | 3) Realizar o login 4)Clicar em Menu Principal <br/> 5) Acessar ficha de treino |
