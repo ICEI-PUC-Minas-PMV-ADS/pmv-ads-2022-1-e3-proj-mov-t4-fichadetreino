@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "matheus.silvino.souza@gmail.com",
+      "password": "$2a$10$opXXfgv9Ipf5ak8fyRpqL.9lkL6vjoXiFHJI1Nbquxlf6zs8GNoaO",
+      "name": "Matheus Silvino",
+      "id": 1
+    },
+    {
+      "email": "matheus@matheus",
+      "password": "$2a$10$/Vj4Ua65.Jbnp6j3PIR0R.ADszpShKSfO46vBGT7LxaZPAgFuR..W",
+      "name": "Matheus",
+      "id": 2
+    },
+    {
+      "email": "matheus@matheus.com",
+      "password": "$2a$10$fRrm2oYWHhP9iUNmlIaBDOTCrArFmoJ3PexpIdVA7Ysq1CpoF3I7K",
+      "name": "Matheus",
+      "id": 3
+    },
+    {
+      "email": "matheus@matheus.com.br",
+      "password": "$2a$10$7WtTAeQH9QUjwFtJJR2BC.SzbTHrJF8nBwWwSHUNGVckv9hfV6VMy",
+      "name": "Matheus1",
+      "id": 4
+    },
+    {
+      "email": "matheus3@matheus.com",
+      "password": "$2a$10$CFeA7x56KO1tSfL24RKvPu6tnWIHYCTKh2FdFl6wBvsjvrhW43gD6",
+      "name": "Matheus",
+      "id": 5
+    }
+  ],
+  "exercicios": [  
+        {
+          "tipo": "A",
+          "nome": "Supino",
+          "series": "3",
+          "repeticao": "8",
+          "carga": "10",
+          "instrucoes": "exercicio de peitoral",
+          "id": 4
+        },
+        {
+          "tipo": "A",
+          "nome": "Rosca",
+          "series": "4",
+          "repeticao": "12",
+          "carga": "5",
+          "instrucoes": "Biceps",
+          "id": 5
+        }
+  ]
+}

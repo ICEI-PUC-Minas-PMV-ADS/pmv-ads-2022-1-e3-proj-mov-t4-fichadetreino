@@ -1,0 +1,22 @@
+### EXERCICIOS
+GET http://localhost:3000/users
+
+
+### REGISTER
+POST http://localhost:3000/register
+content-type: application/json
+
+{
+  "name": "Matheus Silvino",
+  "email": "matheus.silvino.souza@gmail.com",
+  "password": "pucminas"
+}
+
+### LOGIN
+POST http://localhost:3000/login
+content-type: application/json
+
+{
+    "email":"matheus.silvino.souza@gmail.com",
+    "password":"pucminas"
+}

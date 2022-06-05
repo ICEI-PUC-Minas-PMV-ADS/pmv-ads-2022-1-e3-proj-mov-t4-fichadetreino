@@ -1,0 +1,38 @@
+### EXERCICIOS
+GET http://localhost:3000/exercicios
+
+
+### CREATE
+POST http://localhost:3000/exercicios
+content-type: application/json
+
+{
+    "id": 0,
+    "tipo": 2,
+    "nome": "rosca",
+    "series": 6,
+    "repeticao": 8,
+    "carga": 3,
+    "instrucoes": "xxx"
+}
+
+### UPDATE
+PUT http://localhost:3000/exercicios/3
+content-type: application/json
+
+{
+    "id": 3,
+    "tipo": 2,
+    "nome": "rosca",
+    "series": 6,
+    "repeticao": 8,
+    "carga": 3,
+    "instrucoes": "xxx"
+}
+
+
+### GET EXERCICIOS
+GET http://localhost:3000/exercicios/3
+
+### DELETE EXERCICIOS
+DELETE http://localhost:3000/exercicios/4
