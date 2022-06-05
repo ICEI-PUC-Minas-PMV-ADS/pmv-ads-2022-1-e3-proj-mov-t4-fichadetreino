@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://dull-ears-rest-177-182-115-209.loca.lt/';
