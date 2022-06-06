@@ -2,19 +2,19 @@
 
 Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
 
-| **Caso de Teste** |**CT-01 - Fazer Login e CRUD usuário no sistema**| 
+| **Caso de Teste** |**CT-01 - Fazer Login no sistema**| 
 |---|----|
-|Requisitos Associados | RNF-01 O sistema foi capaz de tratar exceções e se recuperar de falhas sem que haja perda de dados <br/> A tela deve ser visualizada com letras roxas e fundo branco, os botões abaixo dos campos para inserção de dados | 
+|Requisitos Associados | RNF-01 O sistema deve ser capaz de tratar exceções e se recuperar de falhas sem que haja perda de dados <br/> A tela deve ser visualizada com letras roxas e fundo branco, os botões abaixo dos campos para inserção de dados | 
 |Objetivo do Teste | Não haver falhar irrecuperáveis |
 |Passos |1) Acessar o aplicativo <br/> 2) Inserir e-mail e senha <br/> 3) Clicar em "entrar" <br/> 
 |Critérios de Êxito | Validar que todas as telas carregaram corretamente. |
 |Resultados obtidos | Requisito atendido  - A tela de login funcionou perfeitamente carregando os dados conforme o esperado sem erros. |
 
-|**Caso de Teste** |**CT-02 - CRUD ficha de treino**| 
+|**Caso de Teste** |**CT-02 - Cadastrar ficha de treino**| 
 |---|----|
 |Requisitos Associados | RNF-02 O aplicativo deverá ser fácil de ser compreendido, permitindo a visualização em um celular de forma adequada. |
 |Objetivo do Teste | Ser intuitivo e fácil de ser visualizado |
-|Passos |1) Acessar o aplicativo <br/> 2) Acessar a tela de login <br/> | 3) Realizar o login 4)Clicar no ícone de exercícios físicos 5) Clicar em "+" 6) Adicionar ficha de treino 7) Salvar
+|Passos |1) Acessar o aplicativo <br/> 2) Acessar a tela de login <br/> | 3) Realizar o login 4)Clicar em Menu Principal 5) Clicar em "+" 6) Adicionar ficha de treino 7) Salvar
 |Critérios de Êxito |Ao acessar o aplicativo, ser fácil de ser manipulado sem ajuda |
 |Resultados obtidos | Requisito atendido - As telas são intuitivas e fáceis de navegar |
 
