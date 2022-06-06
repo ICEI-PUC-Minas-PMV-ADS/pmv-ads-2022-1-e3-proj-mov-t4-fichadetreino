@@ -1,11 +1,17 @@
-# Sample Snack app
+O aplicativo foi desenvolvido inicialmente utilizando a função snack do expo go, e esse desenvolvimento encontra-se na pasta <a href="etapa 4/elaboração expo go snack"> /etapa 4/elaboração expo go snack </a> seguindo os aprendizados do microfundamento "Desenvolvimento de uma aplicação móvel", cada integrante continuava a partir do link com o codigo em que o outro parou. <br>
+A versão final está no link https://snack.expo.dev/@matheussilvino/ficha-de-treino-etapa-4.<br>
+O banco de dados foi feito utilizando o recurso JSON Server conforme a documentação disponível em https://github.com/typicode/json-server<br>
+<br>
+Para utilização é necessário realizar o download dos arquivos na pasta <a href="etapa 4/JsonServer"> JsonServer</a> e realizar a instalação e execução dos comandos no terminal:
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Instalação:<br>
+npm install -g json-server<br>
+npm install -g json-server-auth<br>
+npm install -g localtunnel<br>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Execução:<br>
+json-server-auth db.json<br>
+lt --port 3000<br>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Após a execução será retornada uma URL que deverá ser inserida no arquivo <a href="etapa 4/elaboração expo go snack/src/services/urls.js">urls.js</a>
+Com isso, será possível realizar os testes a partir do <a href="https://snack.expo.dev/@matheussilvino/ficha-de-treino-etapa-4">link do snack do expo go</a>.
