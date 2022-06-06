@@ -5,6 +5,7 @@ import { FlatList, StyleSheet,View } from 'react-native';
 import Header from '../components/Header';
 import Container from '../components/Container';
 import Body from '../components/Body';
+import {updateExercicio} from '../services/ficha.services';
 
 import { useNavigation } from '@react-navigation/native';
 import {getExercicio} from '../services/ficha.services';
@@ -15,13 +16,15 @@ const Ficha = () => {
   const navigation = useNavigation();
   const isFocused = useIsFocused();
   const [exercicios, setExercicios] = useState([]);
-  const [checked, setChecked] = React.useState(false);
+  const [checked, setChecked] = useState();
+
 
   useEffect(() => {
 
     getExercicio().then(dados => {
       console.log(dados);
       setExercicios(dados);
+      setChecked(dados.checked);
     });
   }, [isFocused]);
 
@@ -30,25 +33,8 @@ const Ficha = () => {
       <List.Item
         title={'Exercício: ' + item.nome}
         description={
-          'Séries: ' + item.series + ('\nRepetições: ' + item.repeticoes)
+          'Séries: ' + item.series + (' - Repetições: ' + item.repeticao) + (' - Carga: ' + item.carga + 'KG')
         }
-        right={(props) => (
-          <View>
-            <Text {...props} style={{ alignSelf: 'center' }}>
-              {'Carga: '} {item.carga} {'KG'}
-            </Text>
-          </View>
-        )}
-        left={(props) => (
-          <View>
-            <Checkbox
-            status={checked ? 'checked' : 'unchecked'}
-            onPress={() => {
-              setChecked(!checked);
-            }}
-          />
-          </View>
-        )}
         onPress={() => navigation.navigate('Exercicio', { item })}
       />
     </>
