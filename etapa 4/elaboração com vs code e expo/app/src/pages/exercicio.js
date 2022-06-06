@@ -6,6 +6,7 @@ import {
   TextInput,
   Button,
   Appbar,
+  Checkbox,
 } from 'react-native-paper';
 
 import Header from '../components/Header';
@@ -21,28 +22,30 @@ const Exercicio = ({ route }) => {
   const navigation = useNavigation();
   const { item } = route.params ? route.params : {};
 
-  const [tipo, setTipo] = useState('A');
+  const [tipo, setTipo] = useState('');
   const [nome, setNome] = useState('');
   const [series, setSeries] = useState('');
   const [repeticao, setRepeticao] = useState('');
   const [carga, setCarga] = useState('');
   const [instrucoes, setInstrucoes] = useState('');
+  const [checked, setChecked] = useState('');
 
   useEffect(() => {
     if (item) {
-      setTipo(item.tipo == 'A' ? 0 : tipo == 'B' ? 1 : 2);
+      setTipo(item.tipo == "A"? "A": item.tipo == "B" ? "B" : "C");
       setNome(item.nome);
       setSeries(item.series);
       setRepeticao(item.repeticao);
       setCarga(item.carga);
       setInstrucoes(item.instrucoes);
+      setChecked(item.checked);
     }
   }, [item, tipo]);
 
   const handleSalvar = () => {
     if (item) {
       updateExercicio({
-        tipo: tipo == 'A' ? 0 : tipo == 'B' ? 1 : 2,
+        tipo: tipo == "A"? "A" : tipo == "B" ? "B" : "C",
         nome: nome,
         series: series,
         repeticao: repeticao,
@@ -54,7 +57,7 @@ const Exercicio = ({ route }) => {
       });
     } else {
       insertExercicio({
-        tipo: tipo == 'A' ? setTipo('A') : tipo == 'B' ? setTipo('B') : setTipo('C'),
+        tipo: tipo,
         nome: nome,
         series: series,
         repeticao: repeticao,
@@ -88,15 +91,15 @@ const Exercicio = ({ route }) => {
           value={tipo}>
           <View style={styles.container}>
             <View style={styles.tipo}>
-              <RadioButton value="A" color="gold" />
+              <RadioButton value='A' color="gold" />
               <Text>A</Text>
             </View>
             <View style={styles.tipo}>
-              <RadioButton value="B" color="green" />
+              <RadioButton value='B' color="green" />
               <Text>B</Text>
             </View>
             <View style={styles.tipo}>
-              <RadioButton value="C" color="blue" />
+              <RadioButton value='C' color="blue" />
               <Text>C</Text>
             </View>
           </View>
