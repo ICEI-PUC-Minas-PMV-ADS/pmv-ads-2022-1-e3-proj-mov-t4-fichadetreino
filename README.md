@@ -1,15 +1,55 @@
-> Why do I have a folder named ".expo" in my project?
+# APP Ficha de Treino 
 
-The ".expo" folder is created when an Expo project is started using "expo start" command.
+`TECNÓLOGO EM ANÁLISE DE DESENVOLVIMENTO DE SISTEMA`
 
-> What do the files contain?
+`DESENVOLVIMENTO DE UM APLICAÇÃO INTERATIVA`
 
-- "devices.json": contains information about devices that have recently opened this project. This is used to populate the "Development sessions" list in your development builds.
-- "packager-info.json": contains port numbers and process PIDs that are used to serve the application to the mobile device/simulator.
-- "settings.json": contains the server configuration that is used to serve the application manifest.
+`EIXO 3`
 
-> Should I commit the ".expo" folder?
+## Objetivo do Trabalho
 
-No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
+```bash
+Desenvolvimento de uma aplicação móvel em um ambiente de negócio.
+```
 
-Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+## Integrantes
+
+* Matheus Silvino de Souza
+* Stephanie da Silva Cendrethe
+* Ryan Souza Camargos de Oliveira
+* Ana Maria Teixeira do Carmo
+* Daniel Silvério de Assis Júnior
+* Fernanda Salles Furtado
+
+## Orientador
+
+* Mateus Curcino De Lima
+
+## Instruções de utilização
+
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+
+# Documentação
+
+<ol>
+<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
+<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
+<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
+<li><a href="docs/06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></li>
+<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
+<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
+<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
+<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
+<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/13-Referências.md"> Referências</a></li>
+</ol>
+
+## :mortar_board: Autores
+
+
+<h4 align="center">
+   Feito com 💖 por: <a href="https://www.linkedin.com/in/thais-soares-78846a91/" target="_blank"> Thais </a>, <a href="https://www.linkedin.com/in/rodrigo-charles03/">Rodrigo</a>, <a href="https://www.linkedin.com/in/tatiany-santos-848314150//">Tatiany</a>, <a href="https://www.linkedin.com/in/alinetiburcio/" target="_blank"> Aline</a>, <a href="https://www.linkedin.com/in/lidiafrossard/">Lidia</a>, <a href="https://www.linkedin.com/in/douglas-macedo-da-silva-27221b212/">Douglas</a>.
+</h4>
