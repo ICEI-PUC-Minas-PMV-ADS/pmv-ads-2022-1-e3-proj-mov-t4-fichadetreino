@@ -27,6 +27,8 @@ Desenvolvimento de uma aplicação móvel em um ambiente de negócio.
 
 ## Instruções de utilização
 
+<h3>Elaboração direto no Snack do Expo Go</h3>
+
 O aplicativo foi desenvolvido inicialmente utilizando a função snack do expo go, e esse desenvolvimento encontra-se na pasta <a href="etapa 4/elaboração expo go snack"> /etapa 4/elaboração expo go snack </a> seguindo os aprendizados do microfundamento "Desenvolvimento de uma aplicação móvel", cada integrante continuava a partir do link com o codigo em que o outro parou. <br>
 A versão final está no link https://snack.expo.dev/@matheussilvino/ficha-de-treino-etapa-4.<br>
 O banco de dados foi feito utilizando o recurso JSON Server conforme a documentação disponível em https://github.com/typicode/json-server<br>
@@ -45,7 +47,11 @@ lt --port 3000<br>
 Após a execução será retornada uma URL que deverá ser inserida no arquivo <a href="etapa 4/elaboração expo go snack/src/services/urls.js">urls.js</a>
 Com isso, será possível realizar os testes a partir do <a href="https://snack.expo.dev/@matheussilvino/ficha-de-treino-etapa-4">link do snack do expo go</a>.
 
+<h3>Elaboração com VS Code + Expo</h3>
 
+Após a elaboração pelo Expo Go foi transferida a aplicação para o VS Code, realizando a instalação da aplicação expo que permite executar e testar o aplicativo, tanto em um emulador quanto em um dispositivo móvel próprio. <br>
+As instruções para testes utilizando o JSON Server seguem as mesmas para o Snack Expo passadas anteriormente.<br>
+A documentação para instalação do Expo pode ser encontrada em https://docs.expo.dev/<br>
 
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
