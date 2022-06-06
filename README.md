@@ -27,7 +27,7 @@ Desenvolvimento de uma aplicação móvel em um ambiente de negócio.
 
 ## Instruções de utilização
 
-O aplicativo foi desenvolvido inicialmente utilizando a função snack do expo go, e esse desenvolvimento encontra-se na pasta <a href="etapa 4/elaboração expo go snack"> etapa 4/elaboração expo go snack </a> seguindo os aprendizados do microfundamento "Desenvolvimento de uma aplicação móvel", cada integrante continuava a partir do link com o codigo em que o outro parou. <br>
+O aplicativo foi desenvolvido inicialmente utilizando a função snack do expo go, e esse desenvolvimento encontra-se na pasta <a href="etapa 4/elaboração expo go snack"> /etapa 4/elaboração expo go snack </a> seguindo os aprendizados do microfundamento "Desenvolvimento de uma aplicação móvel", cada integrante continuava a partir do link com o codigo em que o outro parou. <br>
 A versão final está no link https://snack.expo.dev/@matheussilvino/ficha-de-treino-etapa-4.<br>
 O banco de dados foi feito utilizando o recurso JSON Server conforme a documentação disponível em https://github.com/typicode/json-server<br>
 <br>
