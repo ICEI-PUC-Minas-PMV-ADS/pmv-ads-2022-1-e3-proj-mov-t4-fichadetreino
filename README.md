@@ -43,7 +43,7 @@ Desenvolvimento de uma aplicação móvel em um ambiente de negócio.
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-## Quado de Trabalho
+## Quadro de Trabalho
 
 O Quadro de Trabalho com as contribuições dos integrantes foi feito através da função "Projects" do github, em conjunto com a criação de "Issues".
 Pode ser encontrado em https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t4-fichadetreino/projects/1
